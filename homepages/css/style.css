@@ -14,13 +14,14 @@ body {
 	line-height:2;
 	background:#fff;
 }
+
 img { 
 	border:none; 
 	max-width:100%; 
 	height:auto; 
 }
 a	{ 
-	color:#666; 
+	color:#E4C0C1; 
 	text-decoration:none; 
 	transition:0.3s; 
 }
